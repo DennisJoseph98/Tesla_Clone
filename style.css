@@ -1,0 +1,155 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.top-p{
+    text-align: center;
+    
+}
+.top-p a{
+    color: black;
+}
+
+#logo{
+    height: 50px;
+    width: 80px;
+    top: 37px;
+    position: absolute;
+}
+
+.top-a{
+    
+    margin-left: 40px;
+}
+
+.middle{
+    text-align: center;
+}
+
+.right{
+    position: absolute;
+    text-align: right;
+    left: 1148px;
+    top: 33px;
+}
+.r1{
+    margin-right: 4px;
+}
+.common{
+    text-decoration: none;
+    color: black;
+
+}
+
+.cars1{
+    position: relative;
+}
+.cars1 img{
+   
+    width: 100%;
+   height: auto;
+}
+.cartext1 h1{
+    position: absolute;
+    top:30px;
+    left: 676px;
+}
+.cartext1 p{
+    position: absolute;
+    top:80px;
+    left: 618px;
+    font-size: large;
+    
+}
+.cartext1 button{
+    position: absolute;
+    top:644px;
+    width: 285px;
+    height: 35px;
+    border-radius: 5px;
+    border: 0px;
+}
+.cartext1 .btn1{
+    left:430px;
+    background-color: rgb(59, 61, 65);
+    color: white;
+}
+.cartext1 .btn2{
+   left:754px;
+   color: rgb(59, 61, 65);
+}
+.cars2{
+    position: relative;
+}
+.cars2 img{
+   
+    width: 100%;
+   height: auto;
+}
+.cartext2 h1{
+    position: absolute;
+    top:30px;
+    left: 676px;
+}
+.cartext2 p{
+    position: absolute;
+    top:80px;
+    left: 642px;
+    text-decoration: underline;
+    font-size: large;
+    
+}
+.cartext2 button{
+    position: absolute;
+    top:753px;
+    width: 285px;
+    height: 35px;
+    border-radius: 5px;
+    border: 0px;
+}
+.cartext2 .btn1{
+    left:430px;
+    background-color: rgb(59, 61, 65);
+    color: white;
+}
+.cartext2 .btn2{
+   left:754px;
+   color: rgb(59, 61, 65);
+}
+.cars3{
+    position: relative;
+}
+.cars3 img{
+   
+    width: 100%;
+   height: auto;
+}
+.cartext3 h1{
+    position: absolute;
+    top:30px;
+    left: 676px;
+}
+.cartext3 p{
+    position: absolute;
+    top:80px;
+    left: 618px;
+    font-size: large;
+    
+}
+.cartext3 button{
+    position: absolute;
+    top:598px;
+    width: 285px;
+    height: 35px;
+    border-radius: 5px;
+    border: 0px;
+}
+.cartext3 .btn1{
+    left:430px;
+    background-color: rgb(59, 61, 65);
+    color: white;
+}
+.cartext3 .btn2{
+   left:754px;
+   color: rgb(59, 61, 65);
+}
+
